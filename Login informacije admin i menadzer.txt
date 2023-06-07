@@ -1,0 +1,11 @@
+administrator
+123
+
+menadzer 
+123
+------------
+
+Postoji i korisnik:
+
+korisnik 
+123
